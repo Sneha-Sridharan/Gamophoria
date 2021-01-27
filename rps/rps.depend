@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1562294922 source:d:\rps\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1611731481 source:d:\psg summer term\rps\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
